@@ -22,7 +22,7 @@ Welcome to the **100 JavaScript Problems & Solutions** repository! This collecti
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/100-JavaScript-Problems.git
+   git clone https://github.com/yadavanaiks/Top100-JavaScript-Problems.git
 
 2. Navigate to the directory:
 
